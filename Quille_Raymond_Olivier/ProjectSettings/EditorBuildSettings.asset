@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+    path: Assets/Scenes/quillespasce_jeu.unity
+    guid: 7fffafbb6a3cbe347bc49b617fca0c53
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d41b007eca8b0c840bae58d763f0ea65,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2913383208ede234dbc7f6205d330255,
+      type: 2}
