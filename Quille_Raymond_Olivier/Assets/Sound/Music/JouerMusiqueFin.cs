@@ -14,7 +14,7 @@ public class JouerMusiqueFin : MonoBehaviour
     {
         GetComponent<AudioSource>().clip = musiqueAmbiance;
         GetComponent<AudioSource>().Play();
-        InvokeRepeating("ChangeMusique", 5f, 0.25f);
+        InvokeRepeating("ChangeMusique", 420f, 0.25f);
     }
 
     // Update is called once per frame
