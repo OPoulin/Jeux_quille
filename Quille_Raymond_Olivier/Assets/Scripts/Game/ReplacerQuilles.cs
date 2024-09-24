@@ -6,6 +6,7 @@ public class ReplacerQuilles : MonoBehaviour
 {
     Transform positionQuille;
     bool onReplaceUneFois = false;
+    PointageQuilles PointageQuilles;
 
     // Start is called before the first frame update
     void Start()
@@ -29,5 +30,6 @@ public class ReplacerQuilles : MonoBehaviour
         GetComponent<Transform>().rotation = positionQuille.rotation;
         onReplaceUneFois = false;
         CancelInvoke();
+        PointageQuilles.AfficherScore();
     }
 }
