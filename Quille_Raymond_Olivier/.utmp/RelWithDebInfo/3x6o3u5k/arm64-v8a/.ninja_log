@@ -1,0 +1,9 @@
+# ninja log v5
+41	1355	7488945305401870	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d339cd75b486d767
+0	1392	7488945305845978	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bd9a5790de95f126
+18	1433	7488945306338307	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7ebc1c33ec8db1ab
+52	1554	7488945307524054	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	cdef79253309face
+6	1634	7488945308329155	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	787ae84c6bb4e4d1
+27	1804	7488945310046712	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	650c4e38405c905b
+12	1906	7488945311051792	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	d88e153838915cc3
+1906	2099	7488945312494901	C:/Users/456cr/OneDrive/Documents/GitHub/Jeux_quille/Quille_Raymond_Olivier/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3x6o3u5k/obj/arm64-v8a/libgame.so	392995b1508aae8
